@@ -1,0 +1,11 @@
+INSERT INTO `planktonmart`.`member` (`member_id`, `alamat_member`, `nama_member`) VALUES
+  ('1001', 'Yogyakarta', 'Cantya D'),
+  ('1002', 'Yogyakarta', 'Farras R'),
+  ('1003', 'Semarang', 'Yuli'),
+  ('1004', 'Solo', 'Imam A'),
+  ('1005', 'Magelang', 'Juki'),
+  ('1006', 'Klaten', 'Waqid'),
+  ('1007', 'Banjar', 'Gita'),
+  ('1008', 'Kolaka', 'Bowo'),
+  ('1009', 'Lampung', 'Bayu'),
+  ('1010', 'Lampng', 'Jamal');

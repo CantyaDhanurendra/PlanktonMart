@@ -1,0 +1,4 @@
+SELECT m.member_id,m.nama_member,k.kasir_id,k.nama_kasir,p.penjualan_id,p.tgl_penjualan
+FROM penjualan p
+  INNER JOIN member m ON (m.member_id = p.member_id)
+  INNER JOIN kasir k ON (k.kasir_id = p.kasir_id);

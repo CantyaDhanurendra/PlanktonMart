@@ -1,0 +1,4 @@
+INSERT INTO `planktonmart`.`kategori` (`kategori_id`, `nama_kategori`) VALUES
+  ('100', 'makanan'),
+  ('200', 'Minuman'),
+  ('300', 'Alat Tulis');

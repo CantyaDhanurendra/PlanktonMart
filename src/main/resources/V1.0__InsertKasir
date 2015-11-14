@@ -1,0 +1,7 @@
+
+INSERT INTO `planktonmart`.`kasir` (`kasir_id`, `nama_kasir`) VALUES
+    ('5001', 'Aan L'),
+    ('5002', 'Bambang P');
+    ('5003', 'Dhanu'),
+    ('5004', 'Rendra'),
+    ('5005', 'Indi');
